@@ -1,1 +1,3 @@
-2
+2;
+// nächste Änderung
+console.log('Aenderung');
